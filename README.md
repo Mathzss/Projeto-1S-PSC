@@ -43,6 +43,7 @@ as datas de empréstimo e devolução diretamente em seu calendário pessoal.
 RF012 - Reserva de ferramentas:
 - Adicionar um recurso de reserva de ferramentas que permite ao usuário reservar 
 uma ferramenta de sua escolha para um empréstimo posterior.
+
 Requisitos Não Funcionais:
 RNF001 - Localização:
  - O software deve ser executado no computador do usuário (tio-avô).
@@ -77,6 +78,7 @@ experiência contínua e livre de problemas para o usuário.
 RNF009 – Requisitos de Hardware: 
  - O software deve ser leve e ter requisitos mínimos de hardware, garantindo que 
 possa ser executado em computadores mais antigos ou com recursos limitados.
+
 Regras de Negócio:
 RN001 - Validação de Empréstimos:
  - Verificação prévia para garantir que um amigo não possua empréstimos pendentes 
@@ -104,6 +106,7 @@ RN008 - Controle de acesso:
 - Registrar todas as operações de acesso e modificação de dados no sistema para 
 fornecer um histórico completo de auditoria para o monitoramento e a fiscalização.
 RN009 - Política de Devolução:
+
 Banco de dados
 Usuário: root
 Senha:252426
